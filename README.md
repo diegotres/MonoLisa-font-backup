@@ -1,5 +1,5 @@
 # MonoLisa-font-backup
-MonoLisa font from https://www.monolisa.dev/ a cool programming font
+MonoLisa a cool programming font from https://www.monolisa.dev/
 
 ## Description
 一MonoLisa is a premium font for programming i love this font by this i decided to make this backup
